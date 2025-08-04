@@ -7,8 +7,7 @@ A curated collection of **fun, beginner-friendly to advanced JavaScript projects
 - ⏱️ **Counter App** – Simple DOM manipulation and event handling  
 - 🎯 **Guessing Game** – Logic meets interactivity  
 - 🧮 **Input Value Tracker** – Real-time form handling  
-- 🔐 **Form Validation** – Clean, user-friendly inputs  
-- ⌨️ **Typing Effect** – Eye-catching text animation
+- 🔐 **Color Picker** – Dynamic UI styling with live preview
 
 ## 💡 Why this repo?
 This is not just a project dump. It’s a living archive of:
