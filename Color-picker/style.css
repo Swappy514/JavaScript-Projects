@@ -1,0 +1,48 @@
+.main-con{
+    /*background-image: linear-gradient(146deg, #00a2ff 0%, #f5aada 80%);*/
+    height: 100vh;
+}
+
+.heading{
+    font-family:"'Times New Roman', Times, serif";
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.button{
+    font-family: "Open Sans";
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+    border-style: 2px solid;
+    margin: 5px;
+}
+
+.button1 {
+    background-color: #e3dbdb;
+}
+
+.button2 {
+    background-color: #51f495;
+}
+
+.button3 {
+    background-color: #69d4f8;
+}
+
+.button4 {
+    background-color: #d472f8;
+}
+
+.background-color{
+    background-color: #222222;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.span-Element{
+    color: #49a6e9;
+}
