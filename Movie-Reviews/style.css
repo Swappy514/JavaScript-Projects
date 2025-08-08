@@ -1,0 +1,40 @@
+.reviews-heading {
+    color: #2d3a35;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.input-label {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: 16px;
+    margin-bottom: 6px;
+}
+
+.title-input {
+    font-family: "Roboto";
+    height: 40px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #cbd2d9;
+    border-radius: 4px;
+    padding-left: 12px;
+}
+
+.review-textarea {
+    color: #2d3a35;
+    font-family: "Roboto";
+    border-style: solid;
+    border-width: 1px;
+    border-color: #cbd2d9;
+    border-radius: 4px;
+}
+
+.movie-title {
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 16px;
+}
