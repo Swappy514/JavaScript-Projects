@@ -7,7 +7,7 @@ function onAddReview() {
     let movieReview = reviewTextareaE1.value;
 
     if (movieTitle === "") {
-        alert("Please enter the movie title");
+        alert("Please Enter The Movie Title");
         return;
     }
 
