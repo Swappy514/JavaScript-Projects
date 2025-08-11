@@ -1,0 +1,21 @@
+.json-container {
+    padding: 30px;
+}
+
+.heading {
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.value-container{
+    background-color: #f3f3f3;
+    border-radius: 12px;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.value {
+    font-family: "Roboto";
+    font-size: 14px;
+}
