@@ -1,0 +1,16 @@
+.container{
+    background-color: #d5e5ff;
+    height: 100vh;
+}
+
+.subscribe-form-container{
+    background-color: #ffffff;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+.error-message{
+    color: #dc3545;
+    font-family: "Roboto";
+    font-size: 14px;
+}
