@@ -1,0 +1,44 @@
+.container {
+    background-image: linear-gradient(to bottom, #ffa6b7, #1e2ad2);
+    height: 100vh;
+     display: flex;
+    justify-content: center;
+    align-items: center;  /* vertically center the whole block */
+    text-align: center;
+    
+}
+
+.password-container{
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px #00000033, 0 8px 20px #00000026;
+    width: 100%;
+    padding: 30px;
+}
+
+
+.input-label {
+    background: linear-gradient(to bottom, #ffa6b7, #1e2ad2);
+    -webkit-background-clip: text;     
+    -webkit-text-fill-color: transparent; 
+    background-clip: text;             
+    color: transparent;              
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.heading {
+     width: 100%;
+    max-width: 420px; 
+    text-align: center;
+    color: #ffffff;
+    font-size: 36px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+.error-message{
+    color: #dc3545;
+    font-family: "Roboto";
+    font-size: 14px;
+}
