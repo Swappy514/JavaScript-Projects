@@ -1,0 +1,18 @@
+.form-heading {
+  font-family: "Roboto";
+  font-size: 36px;
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+
+.error-message {
+  color: #dc3545;
+  font-family: "Roboto";
+  font-size: 14px;
+}
+
+.gender-field-heading {
+  color: #212529;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
