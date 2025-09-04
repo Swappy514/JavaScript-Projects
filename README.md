@@ -29,17 +29,17 @@
 Explore some of the coolest projects from this archive 👇  
 
 - ✅ [To-Do Application](./Todo-Application) – Create, edit & delete tasks with localStorage  
-- 💣 [Bomb Defuser](./Bomb-Defuser) – Timer-based logic game with countdown  
+- 💣 [Bomb Defuser](./Bomb%20Defuser) – Timer-based logic game with countdown  
 - 🐱 [Cat Animation](./Cat-Animation) – Fun interactive movement with JS & CSS  
 - 🤖 [Chatbot](./Chatbot) – Simple rule-based chatbot UI  
 - 🎨 [Color Picker](./Color-Picker) – Choose and apply custom colors in real time  
 - ⏱️ [Counter](./Counter) – Increment/decrement app with live updates  
-- 🌍 [Countries Search Page](./Countries-Search-Page) – Search and filter countries dynamically  
+- 🌍 [Countries Search Page](./Countries%20Search%20Page) – Search and filter countries dynamically  
 - 🎯 [Guessing Game](./Guessing-Game) – User guessing logic with instant feedback  
 - 📦 [JSON Stringify](./JSON-Stringify) – Convert objects to JSON format live  
-- 🔢 [Number Facts](./Know-Fact-About-the-Number) – Display fun facts about numbers  
-- 😂 [Random Joke Page](./Random-Joke-Page) – Generate and display random jokes  
-- 📩 [Subscribe to Us](./Subscribe-to-Us) – Email subscription UI with validation     
+- 🔢 [Number Facts](./Know%20Fact%20About%20the%20Number) – Display fun facts about numbers  
+- 😂 [Random Joke Page](./Random%20Joke%20Page) – Generate and display random jokes  
+- 📩 [Subscribe to Us](./Subscribe%20to%20Us) – Email subscription UI with validation     
 
 ---
 
