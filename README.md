@@ -28,19 +28,18 @@
 
 Explore some of the coolest projects from this archive 👇  
 
+- ✅ [To-Do Application](./Todo-Application) – Create, edit & delete tasks with localStorage  
+- 💣 [Bomb Defuser](./Bomb-Defuser) – Timer-based logic game with countdown  
 - 🐱 [Cat Animation](./Cat-Animation) – Fun interactive movement with JS & CSS  
-- ⏱️ [Counter App](./Counter-App) – Live DOM updates with event handling  
-- 🎯 [Guessing Game](./Guessing-Game) – Logical flow with instant feedback  
-- 🧮 [Input Value Tracker](./Input-Value-Tracker) – Dynamic form & state updates  
-- 🛠️ [Color Picker](./Color-Picker) – Real-time UI color changes  
-- 🎲 [Dice Roller](./Dice-Roller) – Roll dice with random outcomes  
-- 📅 [Age Calculator](./Age-Calculator) – Calculate age from date input  
-- 📋 [To-Do List](./To-Do-List) – CRUD operations with localStorage  
-- 🌤️ [Weather Dashboard](./Weather-Dashboard) – Async API fetching & live updates  
-- 🎨 [Palette Generator](./Palette-Generator) – Generate random color palettes  
-- 💼 [Portfolio UI](./Portfolio-UI) – Personal portfolio template with animations  
-- 🍲 [Recipe Book](./Recipe-Book) – Browse & search recipes dynamically  
-- 🗣️ [Chat App](./Chat-App) – Real-time messaging interface  
+- 🤖 [Chatbot](./Chatbot) – Simple rule-based chatbot UI  
+- 🎨 [Color Picker](./Color-Picker) – Choose and apply custom colors in real time  
+- ⏱️ [Counter](./Counter) – Increment/decrement app with live updates  
+- 🌍 [Countries Search Page](./Countries-Search-Page) – Search and filter countries dynamically  
+- 🎯 [Guessing Game](./Guessing-Game) – User guessing logic with instant feedback  
+- 📦 [JSON Stringify](./JSON-Stringify) – Convert objects to JSON format live  
+- 🔢 [Number Facts](./Know-Fact-About-the-Number) – Display fun facts about numbers  
+- 😂 [Random Joke Page](./Random-Joke-Page) – Generate and display random jokes  
+- 📩 [Subscribe to Us](./Subscribe-to-Us) – Email subscription UI with validation     
 
 ---
 
